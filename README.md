@@ -1,0 +1,9 @@
+TUGAS BESAR GRAFIKA DAN KOMPUTASI VISUAL
+KELOMPOK 3
+LAB C2 
+
+ANGGOTA:
+- Khalisa Nadya Hakim 24060123140149
+- Jihan Saniyya Pudaliba 24060123130101
+- Gladys Paramadani Hersaputri 24060123140177
+- Muhammad Farhan Al Ghifari 24060123140186
